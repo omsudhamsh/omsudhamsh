@@ -13,8 +13,7 @@ I'm a passionate developer from India, currently focusing on React.js and Data S
 - ✉️  You can contact me at [omsudhamsh@gmail.com](mailto:omsudhamsh@gmail.com)
 - 🧠  I'm learning advanced React patterns and EXPLORING backend development
 - 🤝  I'm open to collaborating on interesting projects and hackathons
-- ⚡  Fun fact: I love solving puzzles and playing chess in my free time
-
+  
 <!-- Social Links -->
 ## Connect with me:
 
