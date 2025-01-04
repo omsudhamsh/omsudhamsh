@@ -1,22 +1,57 @@
-# 💫 About Me:
-I'm Om Sudhamsh, currently working on React.js and Data Structures & Algorithms (DSA). I also have intermediate proficiency in JavaScript.
+<!-- Header Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<!-- Introduction -->
+# Hello, I'm Om Sudhamsh Padma! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omsudhamsh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@omsudhamsh.ai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/om_sudhamsh) 
+I'm a passionate developer from India, currently focusing on React.js and Data Structures & Algorithms (DSA). I have intermediate proficiency in JavaScript and enjoy building web applications that solve real-world problems.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omsudhamsh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omsudhamsh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omsudhamsh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🌍  I'm based in Hyderabad, Telangana, India
+- 🖥️  See my portfolio at [My Portfolio](https://github.com/omsudhamsh/portfolio)
+- ✉️  You can contact me at [omsudhamsh@example.com](mailto:omsudhamsh@example.com)
+- 🧠  I'm learning advanced React patterns and exploring backend development
+- 🤝  I'm open to collaborating on interesting projects and hackathons
+- ⚡  Fun fact: I love solving puzzles and playing chess in my free time
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Social Links -->
+## Connect with me:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omsudhamsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsudhamsh)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/om_sudhamsh)
 
+<!-- Tech Stack -->
+## 🛠️ Tech Stack:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats:
+
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omsudhamsh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsudhamsh&layout=compact&theme=radical)
+
+<!-- Random Dev Quote -->
+## ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Top Contributed Repo -->
+## 🔥 Top Contributed Repo
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=omsudhamsh&repo=portfolio&theme=radical)](https://github.com/omsudhamsh/portfolio)
+
+<!-- Footer -->
 ---
-[![](https://visitcount.itsvg.in/api?id=omsudhamsh&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+*This README was generated with ❤️ by [Om Sudhamsh Padma](https://github.com/omsudhamsh)*
