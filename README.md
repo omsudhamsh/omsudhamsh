@@ -1,56 +1,50 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" />
+</p>
 
-<!-- Introduction -->
-# Hello, I'm Om Sudhamsh Padma! 👋
+<h1 align="center">Hey there, I'm Om Sudhamsh Padma 👋</h1>
+<p align="center">Frontend Dev • React Enthusiast • JavaScript Explorer</p>
 
-I'm a passionate developer from India, currently focusing on React.js and Data Structures & Algorithms (DSA). I have intermediate proficiency in JavaScript and enjoy building web applications that solve real-world problems.
-
-- 🌍  I'm based in Hyderabad, Telangana, India
-- 🖥️  See my portfolio at [My Portfolio](https://omsudhamsh.github.io)
-- ✉️  You can contact me at [omsudhamsh@gmail.com](mailto:omsudhamsh@gmail.com)
-- 🧠  I'm learning advanced React patterns and EXPLORING backend development
-- 🤝  I'm open to collaborating on interesting projects and hackathons
-  
-<!-- Social Links -->
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsudhamsh)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/om_sudhamsh)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@om_sudhamsh)
-<!-- Tech Stack -->
-## 🛠️ Tech Stack:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.Js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats:
-
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omsudhamsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsudhamsh&layout=compact&theme=radical)
-
-<!-- Random Dev Quote -->
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Top Contributed Repo -->
-## 🔥 Top Contributed Repo
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=omsudhamsh&repo=portfolio&theme=radical)](https://github.com/omsudhamsh/portfolio)
-
-<!-- Footer -->
 ---
 
-*This README was generated with ❤️ by [Om Sudhamsh Padma](https://github.com/omsudhamsh)*
+### 👨‍💻 About Me
+
+- 🏠 Based in Hyderabad, India  
+- 🌱 Currently learning advanced React & exploring backend basics  
+- 🧩 Love building things that make life easier  
+- 🤝 Open to collaborations & hackathons  
+- 💼 [Portfolio](https://omsudhamsh.github.io) • 📬 [omsudhamsh@gmail.com](mailto:omsudhamsh@gmail.com)
+
+---
+
+### 🛠️ Tech I Use
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsudhamsh)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/om_sudhamsh)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/@om_sudhamsh)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omsudhamsh&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsudhamsh&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">✨ Made with passion & code by <a href="https://github.com/omsudhamsh">Om Sudhamsh Padma</a> ✨</p>
